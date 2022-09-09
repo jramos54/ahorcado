@@ -1,0 +1,6 @@
+perro|español|animales
+gato|español|animales
+cat|english|animals
+caballo|español|animales
+delfin|español|animales
+rinoceronte|español|animales
